@@ -1,4 +1,6 @@
-export const changeSection = () => {
+import currentTime from "./date";
+
+export default changeSection = () => {
 window.addEventListener('load', () => {
     const navBtn = document.querySelectorAll('nav > a');
     const booksSection = document.querySelector('.all-books');

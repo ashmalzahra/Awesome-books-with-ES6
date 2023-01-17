@@ -1,6 +1,6 @@
-const Title = document.getElementById('title');
-const Author = document.getElementById('author');
-const Add = document.getElementById('add');
+export const Title = document.getElementById('title');
+export const Author = document.getElementById('author');
+export const Add = document.getElementById('add');
 
 export class Methods {
   constructor() {
