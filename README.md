@@ -7,7 +7,6 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Run tests](#run-tests)
@@ -35,14 +34,6 @@
 - **[Git Flow]**
 - **[Good HTML, CSS and JS practices]**
 - **[ES6, modules]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://ashmalzahra.github.io/Awesome-books-ES6/#form)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
