@@ -1,17 +1,17 @@
-import currentTime from "./date.js";
+import currentTime from './date.js';
 
 const changeSection = () => {
-window.addEventListener('load', () => {
+  window.addEventListener('load', () => {
     const navBtn = document.querySelectorAll('nav > a');
     const booksSection = document.querySelector('.all-books');
     const formSection = document.querySelector('#form');
     const contactSection = document.querySelector('#contact');
     const timeElement = document.querySelector('span');
-  
+
     setInterval(() => {
       currentTime(timeElement);
     }, 1000);
-  
+
     navBtn.forEach((btn) => {
       btn.addEventListener('click', () => {
         const i = document.querySelector('.active');
@@ -35,6 +35,6 @@ window.addEventListener('load', () => {
       });
     });
   });
-}
+};
 
 export default changeSection;

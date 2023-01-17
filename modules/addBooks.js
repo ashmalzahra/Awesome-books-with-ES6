@@ -63,12 +63,12 @@ export class Methods {
   };
 }
 
-export const addBook = () => {  
-window.addEventListener('load', () => {
+export const addBook = () => {
+  window.addEventListener('load', () => {
     const method = new Methods();
-  
+
     method.init();
-  
+
     Add.addEventListener('click', (e) => {
       e.preventDefault();
       const author = Author.value;
@@ -78,4 +78,4 @@ window.addEventListener('load', () => {
       Title.value = null;
     });
   });
-}
+};
