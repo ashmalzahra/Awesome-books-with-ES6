@@ -1,4 +1,4 @@
-import { DateTime } from '../node_modules/luxon/build/es6/luxon.js';
+import { DateTime } from './luxon.min.js';
 
 export default function currentTime(timeElement) {
   const dt = DateTime.now();
