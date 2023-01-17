@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/ashmalzahra/Awesome-books-ES6/issues"
   },
-  "homepage": "https://github.com/ashmalzahra/Awesome-books-ES6#readme"
+  "homepage": "https://github.com/ashmalzahra/Awesome-books-ES6#readme",
+  "dependencies": {
+    "luxon": "^3.2.1"
+  },
+  "devDependencies": {
+    "@types/luxon": "^3.2.0"
+  }
 }
