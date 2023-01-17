@@ -1,6 +1,6 @@
 import currentTime from "./date";
 
-export default changeSection = () => {
+const changeSection = () => {
 window.addEventListener('load', () => {
     const navBtn = document.querySelectorAll('nav > a');
     const booksSection = document.querySelector('.all-books');
@@ -36,3 +36,5 @@ window.addEventListener('load', () => {
     });
   });
 };
+
+export default changeSection;
