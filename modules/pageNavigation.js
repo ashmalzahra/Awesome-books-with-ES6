@@ -1,4 +1,4 @@
-import currentTime from "./date";
+import currentTime from "./date.js";
 
 const changeSection = () => {
 window.addEventListener('load', () => {
@@ -35,6 +35,6 @@ window.addEventListener('load', () => {
       });
     });
   });
-};
+}
 
 export default changeSection;

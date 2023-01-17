@@ -78,4 +78,4 @@ window.addEventListener('load', () => {
       Title.value = null;
     });
   });
-};
+}
