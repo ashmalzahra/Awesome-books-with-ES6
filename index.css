@@ -1,0 +1,145 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#books {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  border: 4px solid black;
+}
+
+#books > div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 12px;
+}
+
+#books > div:nth-child(odd) {
+  background-color: #ddd;
+}
+
+#books > div > p {
+  margin: 8px 0;
+}
+
+form > button {
+  border: 2px solid black;
+  align-self: self-end;
+}
+
+#books > div > button {
+  border: 2px solid black;
+}
+
+#line {
+  width: 50px;
+  height: 4px;
+  background-color: black;
+  margin: 1rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+form > * {
+  margin: 0.5rem;
+}
+
+form > input {
+  border: 2px solid black;
+  font-size: medium;
+}
+
+h1 {
+  font-size: 2rem;
+  text-align: center;
+}
+
+form h1 {
+  margin-bottom: 25%;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  width: 95vw;
+  justify-content: space-between;
+  border: 2px solid #000;
+  padding: 0 1rem;
+}
+
+header h3 {
+  font-size: 1.5rem;
+}
+
+header > nav {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+header > nav > a {
+  text-decoration: none;
+  color: #000;
+  padding: 12px;
+}
+
+header > nav > a.active {
+  color: blue;
+}
+
+header > nav > a:nth-child(2) {
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
+}
+
+#date {
+  align-self: flex-end;
+  margin-right: 1rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+footer {
+  display: flex;
+  flex-direction: row;
+  width: 95vw;
+  justify-content: flex-start;
+  border: 2px solid #000;
+  padding: 0 1rem;
+}
+
+.all-books {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto !important;
+}
+
+.all-books,
+form,
+#contact {
+  overflow-y: hidden;
+  height: calc(96vh - 168px);
+}
+
+#contact {
+  padding: 5rem 0 0 0;
+  font-size: 1.2rem;
+}
+
+#contact > p:nth-child(1) {
+  margin-top: 3rem;
+}
+
+.hidden {
+  display: none;
+}
