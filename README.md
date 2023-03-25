@@ -6,6 +6,7 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
+  - [🚀 Live Demo ](#-live-demo-)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -26,6 +27,9 @@
 - HTML, CSS, JavaScript
 - VSCode
 
+## Live Demo
+
+[Live Demo Link](https://ashmalzahra.github.io/Awesome-books-with-ES6/#books)
 
 <!-- Features -->
 
@@ -77,7 +81,7 @@ Clone this repository to get started with the project, make sure to configure li
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ashmalzahra/Awesome-books-ES6/issues).
+Feel free to check the [issues page](https://github.com/ashmalzahra/Awesome-books-with-ES6/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
