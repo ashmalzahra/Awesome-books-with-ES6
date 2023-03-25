@@ -20,7 +20,7 @@
 
 # 📖 [Awesome books ES6] <a name="about-project"></a>
 
-> In this project, Awesome books App code has been restructured. The goal is to make it more organized by using modules and practice ES6 syntax.
+ In this project, Awesome books App code has been restructured. The goal is to make it more organized by using modules and practice ES6 syntax.
 
 ## Built With
 
