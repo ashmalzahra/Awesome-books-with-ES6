@@ -6,14 +6,19 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-  - [🚀 Live Demo ](#-live-demo-)
+    - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
+  - [Install](#install)
+  - [Usage](#usage)
   - [Run tests](#run-tests)
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -27,9 +32,34 @@
 - HTML, CSS, JavaScript
 - VSCode
 
-## Live Demo
+### Tech Stack <a name="tech-stack"></a>
 
-[Live Demo Link](https://ashmalzahra.github.io/Awesome-books-with-ES6/#books)
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://www.javascript.com/">JavaScript</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://html.com/">Html</a></li>
+  </ul>
+  <ul>
+    <li><a href="hhttps://www.w3schools.com/css/">CSS</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="#">N/A</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage">LocalStorage</a></li>
+  </ul>
+</details>
 
 <!-- Features -->
 
@@ -40,6 +70,10 @@
 - **[ES6, modules]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Live Demo
+
+[Live Demo Link](https://ashmalzahra.github.io/Awesome-books-with-ES6/#books)
 
 <!-- GETTING STARTED -->
 
@@ -62,15 +96,25 @@ Clone this repository to get started with the project, make sure to configure li
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+### Usage
+
+To run the project, execute the following command:
+- Go to the file called index.html.
+- Right click Open Live Server.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Ashmal Zahra**
 
-- GitHub: [@githubhandle](https://github.com/ashmalzahra)
-- Twitter: [@twitterhandle](https://twitter.com/AshmalZahraa)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ashmal-zahra-35bb09242/)
+- GitHub: [ashmalzahra](https://github.com/ashmalzahra)
+- Twitter: [AshmalZahraa](https://twitter.com/AshmalZahraa)
+- LinkedIn: [ashmal-zahra](https://www.linkedin.com/in/ashmal-zahra-35bb09242/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,7 +136,27 @@ Feel free to check the [issues page](https://github.com/ashmalzahra/Awesome-book
 Give a ⭐️ if you like this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- ACKNOWLEDGEMENTS -->
 
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse for the information provided to build this project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+- **Can I use the project for any purpose?**
+
+  - Yes, you can use this files for anything you need.
+
+- **Is the information saved in any database?**
+
+  - No, all data is saved in Local Storage.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
