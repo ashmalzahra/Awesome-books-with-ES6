@@ -150,7 +150,7 @@ I would like to thank Microverse for the information provided to build this proj
 
 - **Can I use the project for any purpose?**
 
-  - Yes, you can use this files for anything you need.
+  - Yes, you can.
 
 - **Is the information saved in any database?**
 
